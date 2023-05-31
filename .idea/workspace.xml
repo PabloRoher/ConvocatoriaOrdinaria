@@ -5,21 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="976d0389-3cd0-4e4a-9bae-382a5d98b53c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Ejercicio1/GlamourFinancial.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Ejercicio1/GlamourFinancialImplementation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Ejercicio1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Ejercicio2/Curso.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Ejercicio2/Empleado.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Ejercicio2/Observer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Ejercicio2/RecordAcademico.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Ejercicio2/Subject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Ejercicio2/Main2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Ejercicio3/Document.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Ejercicio3/IPOComponent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Ejercicio3/IPOComposite.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Ejercicio3/Main3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Ejercicio3/Requirement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Ejercicio1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Ejercicio1/Main1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,11 +55,23 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1685532714733</updated>
-      <workItem from="1685532716467" duration="3463000" />
+      <workItem from="1685532716467" duration="4517000" />
     </task>
+    <task id="LOCAL-00001" summary="First commit">
+      <created>1685536329812</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1685536329812</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="First commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="First commit" />
   </component>
 </project>
